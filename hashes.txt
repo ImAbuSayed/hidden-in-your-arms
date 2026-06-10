@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hidden In Your Arms
+
+This log tracks the cryptographic history and versioning for the song **Hidden In Your Arms** (hidden-in-your-arms).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T05:20:08.824547 | `v1` | `b0f40418750cfa9e56ab29399b31728dae4a0dc9756d64503de8705a83ced724` | `011ab37511888a94432cca2ac713ef39f2f1a7b139e5636e4cd1796f830a5f24` | `2026-06-11_hidden-in-your-arms-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
